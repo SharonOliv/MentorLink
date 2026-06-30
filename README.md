@@ -6,8 +6,6 @@ A comprehensive web application for managing faculty appointments with authentic
 ---
 
 ## Features
-
-* User Authentication with Role-Based Access Control (Student, Faculty, Admin)
 * Faculty Directory with Profiles
 * Appointment Scheduling, Rescheduling, and Cancellation
 * Faculty Availability Management with Conflict Prevention
