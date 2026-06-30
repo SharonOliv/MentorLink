@@ -2,7 +2,6 @@
 
 A comprehensive web application for managing faculty appointments with authentication, scheduling, availability tracking, calendar integration, and real-time notifications.
 
-Built with **React, JavaScript, Vite, TailwindCSS, Node.js, Express, and MongoDB**.
 
 ---
 
